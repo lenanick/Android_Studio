@@ -13,3 +13,4 @@
 6) Создать Rergression чеклист для прооверки приложения ToDo List
 7) Сооздать End-to-End сценарии тестирования приложения ToDo List
 ```
+## Ссылка на [Чек листы](https://docs.google.com/spreadsheets/d/1L1ns19wSwXN1SCH0s_fDeBI8bn_N1iwteCiBlBoAQM4/edit#gid=0) и [Баг-репорты](https://docs.google.com/spreadsheets/d/1L1ns19wSwXN1SCH0s_fDeBI8bn_N1iwteCiBlBoAQM4/edit#gid=1747417444)
